@@ -1,5 +1,5 @@
 # UNSW-CYBER-BOOTCAMP # Automated ELK Stack Deployment
-University of Cyber BootCamp
+University of Cyber BootCamp.
 
 The files in this repository were used to configure the network depicted below.
 
